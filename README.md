@@ -154,9 +154,7 @@ For questions or feedback, reach out to:
 **Email**: [wambitafana@gmail.com]  
 **GitHub**: [Wambita](https://github.com/Wambita)
 
----
 
-Feel free to customize this template as needed and use it to document your project on GitHub effectively. Good luck with "Colors and Moodboards"!
 
 
 
