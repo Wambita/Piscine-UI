@@ -135,7 +135,7 @@ Each UI challenge uses its unique palette, derived from the moodboard color sche
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Wambita/colors-and-moodboard
+   git clone https://github.com/Wambita/Piscine_UI/colors-and-moodboard
    ```
 
 2. **Open Figma Files**:
