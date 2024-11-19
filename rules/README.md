@@ -70,13 +70,19 @@ In this exercise, I explored the concept of design consistency across a website 
 **Key Takeaway**: Consistency in design improves user understanding and makes the interface more predictable and easier to navigate.
 
 ## Repository Usage
+
+Here is the repository link
+
+[Piscine-UI](https://github.com/Wambita/Piscine-UI)
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Wambita/Piscine-UI
    ```
 2. Navigate to the `rules` folder: 
-   ```
-cd rules
+   ```bash
+     cd rules
    ```
 3. Open `.figma` files in Figma to view and edit the designs.
 
@@ -84,4 +90,5 @@ cd rules
 
 ## About
 **Author**: Wambita Sheila Fana  
-**GitHub**: [shfana](https://learn.zone01kisumu.ke/git/shfana)  
+**GitHub**: [Wambita](https://github.com/Wambita)  
+
